@@ -1,2 +1,2 @@
 # CMake special commands
-WITH_TESTS - if set as 'ON' also compile tests.
+WITH_TESTS - if set to 'ON' also compile tests.
